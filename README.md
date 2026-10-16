@@ -6,7 +6,7 @@ I'm also a teaching Intern for CS10 (The Beauty and Joy of Computing)
 
 Some tech I use: Python · Flask · PostgreSQL · Docker · React · Flutter · Git
 
-You can reach me via [Email](shelsy_coradope@berkeley.edu)!
+You can reach me via [Email](mailto:shelsy_coradope@berkeley.edu)!
 
 ## A bit about me
 I enjoy collecting Pokémon cards, playing video games, going on hikes, and board games
