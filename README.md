@@ -1,8 +1,8 @@
 # Hi there👋, I'm Shelsy
 Sophomore at **UC Berkeley** studying Computer Science. I'm a first-gen student who likes being busy and building things.
 
-Currently a software engineer on a client project with LG Nova, mostly backend (Flask, Postgres, Docker) with some frontend work (React)
-Teaching Intern for CS10 (The Beauty and Joy of Computing)
+Currently a software engineer on a client project with LG Nova, mostly backend (Flask, Postgres, Docker) with some frontend work (React).
+Im also a teaching Intern for CS10 (The Beauty and Joy of Computing)
 
 Some tech I use: Python · Flask · PostgreSQL · Docker · React · Flutter · Git
 
