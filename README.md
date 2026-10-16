@@ -1,17 +1,15 @@
-## Hi there 👋
-I'm Shelsy, a sophomore at UC Berkeley, studying Computer Science.
+# Hi there👋, I'm Shelsy
+Sophomore at **UC Berkeley** studying Computer Science. I'm a first-gen student who likes being busy and building things.
 
-I'm currently working on a Client Project with LG Nova as a Software engineer.
-I have been working on the backend but have also contributed to the frontend.
+Currently a software engineer on a client project with LG Nova, mostly backend (Flask, Postgres, Docker) with some frontend work (React)
+Teaching Intern for CS10 (The Beauty and Joy of Computing)
 
-You can reach me via email or on social media!
+Some tech I use: Python · Flask · PostgreSQL · Docker · React · Flutter · Git
 
-## A little bit of me
-I'm first-generation.
-I love being busy.
-I love collecting Pokémon cards!
-I love playing video games!
-I drink a lot of coffee.
+You can reach me via [Email](shelsy_coradope@berkeley.edu)!
+
+## A bit about me
+I enjoy collecting Pokémon cards, playing video games, going on hikes, and board games
 
 <!--
 **shelly350/shelly350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
